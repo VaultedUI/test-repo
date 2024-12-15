@@ -1,8 +1,8 @@
-package gg.leg.untitled;
+package gg.leg.test-repo;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class Untitled extends JavaPlugin {
+public final class TestRepo extends JavaPlugin {
 
     @Override
     public void onEnable() {
